@@ -1,0 +1,5 @@
+The parallel code can either be run on a beowulf cluster or on a single system using MPI and reduces the time taken and accuracy 
+of Cuckoo search optimization.
+
+The matrix generator file creates the input matrix and stores it in inp1000.py which is taken as the matrix for the TSP.
+
